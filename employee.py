@@ -1,0 +1,5 @@
+print("employee details")
+print("Employee name: john")
+print("Employee id: 1234")
+print("Employee age: 34")
+print("Employee salary: $50000")
